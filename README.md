@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm T R Nayan</h1>
 <h3 align="center">ENTREPRENEUR|CYBERSECURITY SPECIALIST|DEVELOPER|</h3>
 
