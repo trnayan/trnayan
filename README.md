@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trnayan&label=Profile%20views&color=0e75b6&style=flat" alt="trnayan" /> </p>
 
+## 📈 GitHub Stats
+[![GitHub followers](https://img.shields.io/github/followers/trnayan?logo=GitHub&style=for-the-badge)](https://github.com/trnayan)
+[![GitHub Stars](https://img.shields.io/github/stars/trnayan?logo=github&style=for-the-badge)](https://github.com/trnayan) 
+[![Twitch Status](https://img.shields.io/twitch/status/trnayan?color=9147FF&logo=twitch&style=for-the-badge)]()
+
+![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trnayan&theme=codeSTACKr)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trnayan&theme=codeSTACKr)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trnayan&theme=codeSTACKr)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trnayan" alt="trnayan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tr_nayan" target="blank"><img src="https://img.shields.io/twitter/follow/tr_nayan?logo=twitter&style=for-the-badge" alt="tr_nayan" /></a> </p>
