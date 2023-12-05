@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm T R Nayan</h1>
 <h3 align="center">ENTREPRENEUR|CYBERSECURITY SPECIALIST|DEVELOPER|</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trnayan&label=Profile%20views&color=0e75b6&style=flat" alt="trnayan" /> </p>
+
 
 ## 📈 GitHub Stats
-[![Profile Views]([https://img.shields.io/github/followers/trnayan?logo=GitHub&style=for-the-badge](https://komarev.com/ghpvc/?username=trnayan&label=Profile%20views&color=0e75b6&style=fla))](https://github.com/trnayan)
+[![Profile Views](<p align="left"> <img src="https://komarev.com/ghpvc/?username=trnayan&label=Profile%20views&color=0e75b6&style=flat" alt="trnayan" /> </p>)
 [![GitHub followers](https://img.shields.io/github/followers/trnayan?logo=GitHub&style=for-the-badge)](https://github.com/trnayan)
 [![GitHub Stars](https://img.shields.io/github/stars/trnayan?logo=github&style=for-the-badge)](https://github.com/trnayan) 
 [![Twitch Status](https://img.shields.io/twitch/status/trnayan?color=9147FF&logo=twitch&style=for-the-badge)]()
