@@ -3,8 +3,8 @@
 
 
 
-## 📈 GitHub Stats
-[![Profile Views]([https://img.shields.io/github/followers/trnayan?logo=GitHub&style=for-the-badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife))](https://github.com/trnayan)
+## 📈 GitHub Stats  
+![image]({[BadgeURLHere](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)})
 [![GitHub followers](https://img.shields.io/github/followers/trnayan?logo=GitHub&style=for-the-badge)](https://github.com/trnayan)
 [![GitHub Stars](https://img.shields.io/github/stars/trnayan?logo=github&style=for-the-badge)](https://github.com/trnayan) 
 [![Twitch Status](https://img.shields.io/twitch/status/trnayan?color=9147FF&logo=twitch&style=for-the-badge)]()
