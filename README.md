@@ -4,7 +4,7 @@
 
 
 ## 📈 GitHub Stats  
-![image]({https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white})
+![image]({https://img.shields.io/badge/Profile Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white})
 [![GitHub followers](https://img.shields.io/github/followers/mikeroyal?logo=GitHub&style=for-the-badge)](https://github.com/mikeroyal)
 [![GitHub Stars](https://img.shields.io/github/stars/mikeroyal?logo=github&style=for-the-badge)](https://github.com/mikeroyal) 
 [![Twitch Status](https://img.shields.io/twitch/status/mikeroyal?color=9147FF&logo=twitch&style=for-the-badge)]()
