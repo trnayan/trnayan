@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm T R Nayan</h1>
 <h3 align="center">ENTREPRENEUR|CYBERSECURITY SPECIALIST|DEVELOPER|</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trnayan&label=Profile%20views&color=0e75b6&style=flat" alt="trnayan" /> </p>
 
 
 ## 📈 GitHub Stats  
-![image]({https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white})
 [![GitHub followers](https://img.shields.io/github/followers/trnayan?logo=GitHub&style=for-the-badge)](https://github.com/trnayan)
 [![GitHub Stars](https://img.shields.io/github/stars/trnayan?logo=github&style=for-the-badge)](https://github.com/trnayan) 
 [![Twitch Status](https://img.shields.io/twitch/status/trnayan?color=9147FF&logo=twitch&style=for-the-badge)]()
@@ -49,23 +48,6 @@
 <p><a href="https://www.buymeacoffee.com/tr.nayan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tr.nayan" /></a></p><br><br>
 
 ## 🧑‍💻 My Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=django-DefectDojo&theme=codeSTACKr)]([https://github.com/Self-Hosting-Guide](https://github.com/trnayan/django-DefectDojo))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Steam-Deck-Guide&theme=codeSTACKr)](https://github.com/Steam-Deck-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Apple-Silicon-Guide&theme=codeSTACKr)](https://github.com/Apple-Silicon-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Digital-Forensics-Guide&theme=codeSTACKr)](https://github.com/Digital-Forensics-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Windows-11-Guide&theme=codeSTACKr)](https://github.com/Windows-11-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Photogrammetry-Guide&theme=codeSTACKr)](https://github.com/Photogrammetry-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Open-Source-Security-Guide&theme=codeSTACKr)](https://github.com/Open-Source-Security-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Unreal-Engine-Guide&theme=codeSTACKr)](https://github.com/Unreal-Engine-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=AWS-Guide&theme=codeSTACKr)](https://github.com/AWS-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=NixOS-Guide&theme=codeSTACKr)](https://github.com/NixOS-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Machine-Learning-Guide&theme=codeSTACKr)](https://github.com/Machine-Learning-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=eBPF-Guide&theme=codeSTACKr)](https://github.com/eBPF-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=RISC-V-Guide&theme=codeSTACKr)](https://github.com/RISC-V-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=WireGuard-Guide&theme=codeSTACKr)](https://github.com/WireGuard--Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Linux-Guide&theme=codeSTACKr)](https://github.com/Linux-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=WSL-Guide&theme=codeSTACKr)](https://github.com/WSL-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Azure-Guide&theme=codeSTACKr)](https://github.com/Azure-Guide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Google-Cloud-Guide&theme=codeSTACKr)](https://github.com/Google-Cloud-Guide)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=django-DefectDojo&theme=codeSTACKr)](https://github.com/trnayan/django-DefectDojo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Change-password-Laravel&theme=codeSTACKr)](https://github.com/trnayan/Change-password-Laravel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=laravel-with-stripe&theme=codeSTACKr)](https://github.com/trnayan/laravel-with-stripe)
