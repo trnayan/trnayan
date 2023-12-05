@@ -48,17 +48,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tr.nayan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tr.nayan" /></a></p><br><br>
 
-## 📈 GitHub Stats
-[![GitHub followers](https://img.shields.io/github/followers/trnayan?logo=GitHub&style=for-the-badge)](https://github.com/trnayan)
-[![GitHub Stars](https://img.shields.io/github/stars/trnayan?logo=github&style=for-the-badge)](https://github.com/trnayan) 
-[![Twitch Status](https://img.shields.io/twitch/status/trnayan?color=9147FF&logo=twitch&style=for-the-badge)]()
-
-![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trnayan&theme=codeSTACKr)
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trnayan&theme=codeSTACKr)
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trnayan&theme=codeSTACKr)
-
 ## 🧑‍💻 My Current Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Self-Hosting-Guide&theme=codeSTACKr)](https://github.com/Self-Hosting-Guide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=django-DefectDojo&theme=codeSTACKr)]([https://github.com/Self-Hosting-Guide](https://github.com/trnayan/django-DefectDojo))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Steam-Deck-Guide&theme=codeSTACKr)](https://github.com/Steam-Deck-Guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Apple-Silicon-Guide&theme=codeSTACKr)](https://github.com/Apple-Silicon-Guide)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trnayan&repo=Digital-Forensics-Guide&theme=codeSTACKr)](https://github.com/Digital-Forensics-Guide)
